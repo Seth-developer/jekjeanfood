@@ -1,0 +1,21 @@
+.imgcontain{
+    width: 80%;
+    height: auto;
+    margin: auto;
+}
+.imgcontain .imgpromotion{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+   
+
+}
+.imgcontain .imgpromotion img{
+    width: 100%;
+    height: 100%;
+
+    align-items: center;
+    /* margin-left: 200px; */
+}
